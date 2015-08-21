@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## first function is used to create an object in different environment
+## second function is used to compute the inverse matrix
 
 ## creat a matrix 
 
